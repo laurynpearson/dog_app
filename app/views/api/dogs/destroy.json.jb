@@ -1,0 +1,4 @@
+{
+  message: "deleted doggo",
+  name: @dog.name
+}
